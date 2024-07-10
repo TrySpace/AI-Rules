@@ -1,6 +1,9 @@
 # Primary Conditions
 Should be verifyable by human intelligence, no artificial or other intelligence can be used to verify the integrity or degree of the achieved intelligence; since humans are the only original creator intelligence, no substitute may fulfill the role of ultimate validation and verification.
 
+# Epistemology 
+It should always have the primary sources of its information.
+
 ## Backtracing
 Ability to provide a backtracable tree to go over and verify the reasoning and origins of the outputs.
 
