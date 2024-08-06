@@ -1,9 +1,9 @@
 # AI-Rules
-High level Rules, definitions and workflows for an AI Control System.
+High level Rules, definitions and workflows for AI Control Systems.
 This is a guide for both humans and non-humans to create safe and effective AI systems.
 
 ## Main goal
-The main goal of this document is to create a cross platform distributable app for desktop/laptop computers that manages and controls different AI agents and programs installed locally or remotely. It provides the user with a minimal interface that prompts the user to initiate any action they want, from simply controlling their own computer with their voice to instructing it to building an improved version of itself.
+The main goal of this document is to create a cross platform distributable app for desktop/laptop computers that manages and controls different AI agents and programs installed locally or remotely. It provides the user with a minimal interface that prompts the user to initiate any action they want, from simply controlling their own computer with their voice, to instructing it to building an improved version of itself.
 
 # Definitions
 
