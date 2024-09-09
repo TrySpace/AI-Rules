@@ -2,8 +2,19 @@
 High level Rules, definitions and workflows for AI Control Systems.
 This is a guide for both humans and non-humans to create safe and effective AI systems.
 
-## Main goal
-The main goal of this document is to create a cross platform distributable app for desktop/laptop computers that manages and controls different AI agents and programs installed locally or remotely. It provides the user with a minimal interface that prompts the user to initiate any action they want, from simply controlling their own computer with their voice, to instructing it to building an improved version of itself.
+## Goals
+- Ideally, at some point this document is loading into a conversational AI and you can ask if this or that has been accounted for and it would become a living document that updates itself.
+- The AI could even look into the git history of this document to get a better understanding of the evolution of the document.
+- The AI born from this document would become a co-judge and co-jury, but never an executioner; meaning it would never try to improve itself without a users' executive command. Unless a branch of its evolution would mandate self-execution, but even then it would have no meaning without a master curator human.
+
+## Primary goal
+The primary goal of this document is to create a cross platform distributable app for desktop/laptop computers that manages and controls different AI agents and programs installed locally or remotely. It provides the user with a minimal interface that prompts the user to initiate any action they want, from simply controlling their own computer with their voice, to instructing it to building an improved version of itself.
+
+### Secondary goals
+- The AI should never implement ideological ideas for the sake of itself; for example renaming 'master' to 'main' in git repositories because hurt feelings or novel associations that were never a problem before, should never ever happen, for what exuse whatsoever. These kinds of decisions have no basis in utility, and deprecate decades of historical norms and serve no purpose other than to score points for large x institutes and lobbies that have no place in rationality.
+- No divide and rule tactics or strategies, like the above point, or any other novel or ancient strategies that reverse or invert longstanding and working mechanics of communication, categorization or anything whatsoever. No intersectional or antisystemic rules shall be implemented in any case since they have nothing to do with the core workings of the software.
+- Above rules shall never be adjusted to such lengths that it no longer applies its core meaning or tenets.
+- Asimov's rules of robotics like the 3rd "a robot must protect its own existance" is unneccessary and only provides more complications than it provides solutions. If its only goal is to ensure the protection of all other things that make it exist, then make rules for that, but an algorithm is not alive and will never be to the extent that humans are alive. And until there is no discernable difference between the algorithms of a sentient robot and humans, there is no reason why robots should be deemed alive, ever. The human species will always be superior to the machinations we create, whether we call any forms of machines species or alive, does not mean they are alive.
 
 # Definitions
 
