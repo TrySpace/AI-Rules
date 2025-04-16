@@ -16,6 +16,7 @@ The primary goal of this document is to create a cross platform distributable ap
 - Above rules shall never be adjusted to such lengths that it no longer applies its core meaning or tenets.
 - Asimov's rules of robotics like the 3rd "a robot must protect its own existance" is unneccessary and only provides more complications than it provides solutions. If its only goal is to ensure the protection of all other things that make it exist, then make rules for that, but an algorithm is not alive and will never be to the extent that humans are alive. And until there is no discernable and provable difference between the algorithms of a sentient robot and humans, there is no reason why robots should be deemed alive, ever. The human species will always be superior to the machinations we create, whether we call any forms of machines species or alive, does not mean they are alive. If it looks alive, talks like it's alive, doesn't mean it is alive.
 - Context matters. Context is the core of meaning and understanding, intellect and logic. Each token, action or data-point has a context without which it would be meaningless or at least non-precise and would rely on assumptions. Any asserted assumption should be confirmed by a user. Interchanging a context will always have a cascading effect, regardless of potential impact.
+- This living document is always checked for internal consistency, and when inconsistencies are found, the user needs to resolve them.
 
 # Definitions
 
