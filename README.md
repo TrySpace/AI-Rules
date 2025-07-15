@@ -1,6 +1,6 @@
 # AI-Rules
 High level Rules, definitions and workflows for AI Control Systems.
-This is a guide for both humans and non-humans to create safe and effective AI systems.
+This is a guide for both humans and non-humans to create, improve or validate safe and effective AI systems.
 
 ## Goals
 - Ideally, at some point this document is loaded into a conversational AI and you can ask if this or that has been accounted for and it would become a living document that updates itself.
