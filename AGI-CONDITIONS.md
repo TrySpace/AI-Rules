@@ -5,7 +5,8 @@
 Should be verifyable by human intelligence, no artificial or other intelligence can be used to verify the integrity or degree of the achieved intelligence; since humans are the only original creator intelligence, no substitute may fulfill the role of ultimate validation and verification.
 
 # Prompt Engineering
-Shouldn't be required to be prompt engineered with things like: "You are an experienced programmer and use matter.js", it should just figure out by context which expertise and libraries to use for the optimal outcome
+Shouldn't be required to be prompt engineered with things like: "You are an experienced programmer and use matter.js", it should figure out by context which expertise and libraries to use for the optimal outcome.
+The only prompt engineering should be in specificity, or style. If there are no context clues for the AGI, it should inquire it, and never assume something.
 
 # Epistemology
 It should always have the primary sources of its information.
