@@ -5,7 +5,7 @@
 Should be verifyable by human intelligence, no artificial or other intelligence can be used to verify the integrity or degree of the achieved intelligence; since humans are the only original creator intelligence, no substitute may fulfill the role of ultimate validation and verification.
 Context is the primary determinator of meaning, and if context is assumed it should always be mentioned, and clarified when ambigious.
 Should be based on a physical world model from its inception, since all language stems from physical actions and are abstractions from simple spatial logic (e.g. from, with, of, towards all have different levels of meaning from literal physical to figurative abstract. Even the word figurative stems from the idea of a physical figure where shape is the determining factor in its meaning in context)
-
+Without a rigorous understanding of the essential physical nature of language, the LLM blackbox is wide open for uncaught ambiguities that are not apparent to human curators and can mean something entirely different to an AI than we would assume it meant.
 
 # Prompt Engineering
 Shouldn't be required to be prompt engineered with things like: "You are an experienced programmer and use matter.js", it should figure out by context which expertise and libraries to use for the optimal outcome.
